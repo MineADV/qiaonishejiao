@@ -1,0 +1,9 @@
+# 运行依赖
+customtkinter>=5.2.0
+cryptography>=42.0.0
+pillow>=10.0.0
+# 可选：文件拖拽。没装也能跑，只是拖进来发文件不可用
+tkinterdnd2>=0.4.0
+
+# 打包用（可选）
+pyinstaller>=6.16.0

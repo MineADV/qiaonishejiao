@@ -1,0 +1,31 @@
+# ---- 运行数据 / 配置（不要提交）----
+server_config.json
+social_data.json
+social_data.json.bak
+game_scores.json
+history/
+avatars/
+group_files/
+*.log
+probe_report.txt
+geo_report.txt
+
+# ---- 打包产物 ----
+dist/
+build/
+*.spec
+*.zip
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+site-packages/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

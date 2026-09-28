@@ -1,0 +1,5 @@
+# 运行依赖
+cryptography>=42.0.0
+
+# 打包用（可选）
+pyinstaller>=6.16.0
